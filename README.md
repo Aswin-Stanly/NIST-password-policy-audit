@@ -39,6 +39,7 @@ This project demonstrates a **Password Policy Audit** of a sample web applicatio
 
 ## Files Included
 - `Password_Policy_Audit_Report.pdf` – Report (PDF version)
+- `Password_Policy_Audit_Report.docx` - Report (Word)
 - `NIST_Password_Audit_Checklist.xlsx` – Audit checklist
 - `BLOG.md` – Blog draft for Medium
 
